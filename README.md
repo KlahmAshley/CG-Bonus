@@ -12,6 +12,7 @@ For the First shader I implemented a modified bump map shader. I have modified i
 <img width="600" height="370" alt="Screenshot 2025-11-24 205431" src="https://github.com/user-attachments/assets/e937ca82-100c-4be7-8e39-6d88d81fc2e2" />
 
 2nd Shader:
+
 <img width="537" height="367" alt="Shader2" src="https://github.com/user-attachments/assets/848cb8fb-6130-4429-b393-4bc4e5281b49" />
 
 For my second shader I used a rim light shader and modifed it to change colours. I feel like this enhances the original game as it looks more like its exploding and fire is coming off of it rather than just the original static object. 
